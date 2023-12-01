@@ -1,0 +1,20 @@
+/* Livros.css */
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom left, #718bad, #718bad, #718bad);
+    color: white;
+  }
+  
+
+
+.table-container {
+  max-height: 500px; 
+  margin: 0 auto; 
+  overflow-y: auto; 
+}
+
+

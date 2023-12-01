@@ -1,0 +1,30 @@
+
+
+.pesquisa-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 2px;
+  }
+  
+  .icone-lupa-label {
+    margin-right: 5px; /* ou ajuste conforme necessário */
+    
+  }
+  
+  .pesquisa-input {
+    width: 40%;
+    padding: 5px;
+    outline: none;
+    transition: border-color 0.3s;
+  }
+  
+  .pesquisa-input:focus {
+    border-color: #4a90e2;
+  }
+
+  .icone-lupa {
+    color: #555; /* Cor cinza escuro para a lupa */
+  }
+  
+  
